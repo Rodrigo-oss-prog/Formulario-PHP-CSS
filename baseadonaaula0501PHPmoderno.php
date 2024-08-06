@@ -38,6 +38,7 @@
 
 <body>
 
+<marquee>PHP</marquee>
 <h1>Aula PHP</h1>
 <?php
     $texto = isset($_POST['texto']) ? $_POST['texto'] : '';
